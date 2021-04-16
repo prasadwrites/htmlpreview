@@ -1,19 +1,18 @@
-https://prasadwrites.github.io/htmlpreview/BankChurnPrediction.html
-
-https://prasadwrites.github.io/htmlpreview/Concrete Strength Prediction .html
-
-https://prasadwrites.github.io/htmlpreview/ET-TD-SubscriptionPrediction.html
-
-https://prasadwrites.github.io/htmlpreview/MovieLens Project Questions.html
-
-https://prasadwrites.github.io/htmlpreview/PlantClassification.html
-
-https://prasadwrites.github.io/htmlpreview/TheraBankPersonalLoanCampaign.html
-
-https://prasadwrites.github.io/htmlpreview/TwitterNLP.html
-
-https://prasadwrites.github.io/htmlpreview/USL-Project_AlllifeCreditCardCustomerSegmentation.html
-
-https://prasadwrites.github.io/htmlpreview/USL-Project_AlllifeCreditCardCustomerSegmentation.html
 
 
+
+[Foundations](https://prasadwrites.github.io/htmlpreview/MovieLens Project Questions.html)
+
+[Supervised Learning](https://prasadwrites.github.io/htmlpreview/TheraBankPersonalLoanCampaign.html)
+
+[Unsupervised Learning](https://prasadwrites.github.io/htmlpreview/USL-Project_AlllifeCreditCardCustomerSegmentation.html)
+
+[Model Tuning](https://prasadwrites.github.io/htmlpreview/Concrete Strength Prediction .html)
+
+[Ensemble Techniques](https://prasadwrites.github.io/htmlpreview/ET-TD-SubscriptionPrediction.html)
+
+[Neural Networks](https://prasadwrites.github.io/htmlpreview/BankChurnPrediction.html)
+
+[Natural Language Processing](https://prasadwrites.github.io/htmlpreview/TwitterNLP.html)
+
+[Computer Vision](https://prasadwrites.github.io/htmlpreview/PlantClassification.html)
